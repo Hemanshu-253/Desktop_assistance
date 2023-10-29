@@ -1,24 +1,21 @@
-# Desktop_assistance
-This will do everything to automate the desktop as far as possible!!
+Title: Desktop Assistance
 
+"This will automate desktop functions to the fullest extent possible!"
 
-before opening the Desktop_assistant.py file make sure you download all your libraries as mentioned in requirements.txt
+Before opening the Desktop_assistant.py file, ensure you've downloaded all the required libraries mentioned in requirements.txt.
 
-to install requirements.txt
-type {pip install -r requirements.txt} in the terminal
+To install requirements.txt, type pip install -r requirements.txt in the terminal.
 
-This program can do various like opening, creating folder opening camera, opening webbrowser,showing time,record and save video,capture the photo,create textfiles and edit them,browse on youtube,and last but not least you can talk with it like you talk with any human.. Also you have Mic option to record and search it through that...
+This program can perform various tasks, such as opening applications, creating folders, accessing the camera, opening web browsers, displaying the time, recording and saving videos, taking photos, creating and editing text files, browsing YouTube, and, last but not least, engaging in conversation similar to interacting with a human. Additionally, it includes a microphone option for recording and searching through voice commands.
 
-below are the sample user commands:
-open youtube: for opening youtube in your default browser
-search on youtube ghosts: for searching ghosts in youtube
-search on google ghost: for searching ghosts in google
-create file hello its content : it creates new text file in which its text is "hello its content"
-capture photo: it captures your current photo
-record video: it records video 
-make folder new_folder: it creates new folder named "new_folder"
-whats the time: it gives you the current time
+Below are sample user commands:
 
-
-
-Also during this hackathon we tried to make hand detector and gesture identifier
+open youtube: to open YouTube in your default browser
+search on youtube ghosts: to search for "ghosts" on YouTube
+search on google ghost: to search for "ghosts" on Google
+create file hello its content: creates a new text file with the content "hello its content"
+capture photo: to take a photo
+record video: to start recording a video
+make folder new_folder: to create a new folder named "new_folder"
+what's the time: to know the current time
+Additionally, during this hackathon, we attempted to develop a hand detector and gesture identifier.
